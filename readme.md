@@ -18,11 +18,15 @@ http://localhost:8000
 ### Endpoints
 
 GET /teams
+
 GET /teams/{id}
+
 POST /teams
+
 PUT /teams/{id}
 
 GET /players/{id}
 
 POST /teams/{id}/player
+
 PUT /teams/{id}/player/{pid}
